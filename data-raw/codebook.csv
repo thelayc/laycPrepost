@@ -1,0 +1,112 @@
+pseudo,question,answer,weight
+dob,DOB:,,
+fname,FirstName:,,
+lname,LastName:,,
+prepost,Please indicate whether this is a PRE or a POST survey:,POST,
+prepost,Please indicate whether this is a PRE or a POST survey:,PRE,
+q1,01) Sometimes you have to physically fight to get what you want.,no,2
+q1,01) Sometimes you have to physically fight to get what you want.,NO!,3
+q1,01) Sometimes you have to physically fight to get what you want.,yes,1
+q1,01) Sometimes you have to physically fight to get what you want.,YES!,0
+q10,10) I always like to do my part.,no,1
+q10,10) I always like to do my part.,NO!,0
+q10,10) I always like to do my part.,yes,2
+q10,10) I always like to do my part.,YES!,3
+q11,11) It is important to do your part in helping at home.,no,1
+q11,11) It is important to do your part in helping at home.,NO!,0
+q11,11) It is important to do your part in helping at home.,yes,2
+q11,11) It is important to do your part in helping at home.,YES!,3
+q12,12) Helping others is very satisfying.,no,1
+q12,12) Helping others is very satisfying.,NO!,0
+q12,12) Helping others is very satisfying.,yes,2
+q12,12) Helping others is very satisfying.,YES!,3
+q13,"13) On a scale from 1 to 7, please indicate how likely you are to be joining a gang in the future:",1,1
+q13,"13) On a scale from 1 to 7, please indicate how likely you are to be joining a gang in the future:",2,2
+q13,"13) On a scale from 1 to 7, please indicate how likely you are to be joining a gang in the future:",3,3
+q13,"13) On a scale from 1 to 7, please indicate how likely you are to be joining a gang in the future:",4,4
+q13,"13) On a scale from 1 to 7, please indicate how likely you are to be joining a gang in the future:",5,5
+q13,"13) On a scale from 1 to 7, please indicate how likely you are to be joining a gang in the future:",6,6
+q13,"13) On a scale from 1 to 7, please indicate how likely you are to be joining a gang in the future:",7,7
+q14,"14) I think you are safer, and have protection, if you join a gang.",No,1
+q14,"14) I think you are safer, and have protection, if you join a gang.",Yes,0
+q15,15) I will probably join a gang.,No,1
+q15,15) I will probably join a gang.,Yes,0
+q16,16) Some of my friends at school belong to gangs.,No,1
+q16,16) Some of my friends at school belong to gangs.,Yes,0
+q17,17) I think it’s cool to be in a gang.,No,1
+q17,17) I think it’s cool to be in a gang.,Yes,0
+q18,18) My friends would think less of me if I joined a gang.,No,0
+q18,18) My friends would think less of me if I joined a gang.,Yes,1
+q19,19) I believe it is dangerous to join a gang; you will probably end up getting hurt or killed if you belong to a gang.,No,0
+q19,19) I believe it is dangerous to join a gang; you will probably end up getting hurt or killed if you belong to a gang.,Yes,1
+q2,02) I get mad easily.,no,2
+q2,02) I get mad easily.,NO!,3
+q2,02) I get mad easily.,yes,1
+q2,02) I get mad easily.,YES!,0
+q20,20) I think being in a gang makes it more likely that you will get into trouble.,No,0
+q20,20) I think being in a gang makes it more likely that you will get into trouble.,Yes,1
+q21,21) Joining a gang can have legal consequences.,False,0
+q21,21) Joining a gang can have legal consequences.,True,1
+q22,22) Gang members engage in violent acts in retaliation against other gangs.,False,0
+q22,22) Gang members engage in violent acts in retaliation against other gangs.,True,1
+q23,23) Some Girls who are associated with gangs are abused physically and sexually by the members.,False,0
+q23,23) Some Girls who are associated with gangs are abused physically and sexually by the members.,True,1
+q24,24) Girls in gangs don’t suffer the same legal punishments that the boys do.,False,0
+q24,24) Girls in gangs don’t suffer the same legal punishments that the boys do.,True,1
+q25,"25) Once you join a gang, you can never get out.",False,1
+q25,"25) Once you join a gang, you can never get out.",True,0
+q26,26) Many different ethnic and racial groups make up gangs.,False,0
+q26,26) Many different ethnic and racial groups make up gangs.,True,1
+q27,27) Many teens join gangs because they don’t receive enough family attention.,False,0
+q27,27) Many teens join gangs because they don’t receive enough family attention.,True,1
+q28,28) The average age to join a gang is 18 years old.,False,1
+q28,28) The average age to join a gang is 18 years old.,True,0
+q29,29) Gangs have rules that are punishable by death if violated.,False,0
+q29,29) Gangs have rules that are punishable by death if violated.,True,1
+q3,03) I do whatever I feel like doing.,no,2
+q3,03) I do whatever I feel like doing.,NO!,3
+q3,03) I do whatever I feel like doing.,yes,1
+q3,03) I do whatever I feel like doing.,YES!,0
+q30,"30) You can identify a gang member by the following: clothing, country of origin and shoes.",False,0
+q30,"30) You can identify a gang member by the following: clothing, country of origin and shoes.",True,1
+q31,31) One way to avoid hanging out with dangerous or risky people is to make up an excuse.,False,0
+q31,31) One way to avoid hanging out with dangerous or risky people is to make up an excuse.,True,1
+q32,32) Sometimes staying busy by playing sports or playing music is one of the best ways to avoid getting in trouble.,False,0
+q32,32) Sometimes staying busy by playing sports or playing music is one of the best ways to avoid getting in trouble.,True,1
+q33,33) Saying “no” over and over again won’t help you avoid trouble.,False,1
+q33,33) Saying “no” over and over again won’t help you avoid trouble.,True,0
+q34,34) Walking away from negative people will only make your problems worse.,False,1
+q34,34) Walking away from negative people will only make your problems worse.,True,0
+q35,"35) If you have friends who make good choices, you can be there for each other when someone tries to pressure you.",False,0
+q35,"35) If you have friends who make good choices, you can be there for each other when someone tries to pressure you.",True,1
+q36,"36) If you look like a gang member (by wearing gang colors or using hand signs) or are seen with a gang member, rival gangs can’t tell the difference between you and the real gang member – so you’re more likely to be an innocent target of violence.",False,0
+q36,"36) If you look like a gang member (by wearing gang colors or using hand signs) or are seen with a gang member, rival gangs can’t tell the difference between you and the real gang member – so you’re more likely to be an innocent target of violence.",True,1
+q37,"37) Carrying a weapon to school, like a knife, is one of the best ways to avoid getting in trouble.",False,1
+q37,"37) Carrying a weapon to school, like a knife, is one of the best ways to avoid getting in trouble.",True,0
+q4,"04) When I am mad, I yell at people.",no,2
+q4,"04) When I am mad, I yell at people.",NO!,3
+q4,"04) When I am mad, I yell at people.",yes,1
+q4,"04) When I am mad, I yell at people.",YES!,0
+q5,05) Sometimes I break things on purpose.,no,2
+q5,05) Sometimes I break things on purpose.,NO!,3
+q5,05) Sometimes I break things on purpose.,yes,1
+q5,05) Sometimes I break things on purpose.,YES!,0
+q6,"06) If I feel like it, I hit people.",no,2
+q6,"06) If I feel like it, I hit people.",NO!,3
+q6,"06) If I feel like it, I hit people.",yes,1
+q6,"06) If I feel like it, I hit people.",YES!,0
+q7,07) I like to help around the house,no,1
+q7,07) I like to help around the house,NO!,0
+q7,07) I like to help around the house,yes,2
+q7,07) I like to help around the house,YES!,3
+q8,08) Being part of a team is fun.,no,1
+q8,08) Being part of a team is fun.,NO!,0
+q8,08) Being part of a team is fun.,yes,2
+q8,08) Being part of a team is fun.,YES!,3
+q9,09) Helping others makes me feel good.,no,1
+q9,09) Helping others makes me feel good.,NO!,0
+q9,09) Helping others makes me feel good.,yes,2
+q9,09) Helping others makes me feel good.,YES!,3
+total,Total,,
+,First Page,,
+,,,
